@@ -17,28 +17,28 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.ANTI_BADWORD = 'true' // true of false
 global.AUTO_REACT = 'false' // true of false
 global.INBOX_BLOCK_MSG ='BLOCK !!!'
-global.INBOX_BLOCK = 'on' //inbox block
-global.alivemsg = 'ᴅᴀʀᴋ-ɴᴇʀᴏ ʙᴏᴛ'
+global.INBOX_BLOCK = 'ON' //inbox block
+global.alivemsg = 'Globho ʙᴏᴛ'
 global.alivepic = 'https://i.ibb.co/zFYBPcQ/IMG-20230226-WA0115.jpg '
-global.owner = ['3015972571'] //ur owner number
+global.owner = ['19543069775'] //ur owner number
 global.ownername = "Globho" //ur owner name
-global.ytname = "YT: Globho Official" //ur yt chanel name
+global.ytname = "YT: Dark" //ur yt chanel name
 global.socialm = "GitHub: Dark" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.session = " MlIzM1gzSmI= " //session Id
-global.ownernomer = "3015972571" //ur number
+global.session = "" //session Id
+global.ownernomer = "19543069775" //ur number
 global.lang = "SI" //Select Language "EN" to English "SI" to sinhala 
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'Globho ᴡʜᴀᴛʜᴀᴘᴘ ʙᴏᴛ' //ur bot name
+global.premium = ['+1 954 306 9775'] //ur premium number
+global.botname = 'Globho' //ur bot name
 global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://www.darknero.ga/' //script link
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Dark Nero By" //ur sticker watermark packname
-global.author = "Globho Creating By Globho Team" //ur sticker watermark author
-global.wm = "Globho Bot Inc." //ur watermark
+global.author = "Dark Nero Creating By Cyber Yakuza Team" //ur sticker watermark author
+global.wm = "Dark Bot Inc." //ur watermark
 
 // Other
 global.sessionName = 'session'
